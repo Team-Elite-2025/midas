@@ -131,15 +131,17 @@ Edit constants at the top of the program for tuning:
 
 ## Sample Outputs
 
-### Screenshot 1: Initial Ball Detection
+### Screenshot 1: Different modes
 ![Example 1](img/example1.png)
+Midas Can recognize certain conditions and act accordingly
 
-### Screenshot 2: Interception in Progress
+### Screenshot 2: Interceptions
 ![Example 2](img/example2.png)
+Midas doesn't just block shots, it does a full counter-offensive! Midas can shoot towards the goal if nothing is blocking it's path!
 
-### Screenshot 3: Path Analysis
+### Screenshot 3: Target box
 ![Example 3](img/example3.png)
-
+Midas will not act unless a ball enters it's "target path" which is a box around the goal. During this time, Midas is carefully watching the physics behind how the ball is moving.
 ---
 
 ## Future Development
