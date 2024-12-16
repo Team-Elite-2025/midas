@@ -140,8 +140,9 @@ Midas Can recognize certain conditions and act accordingly
 Midas doesn't just block shots, it does a full counter-offensive! Midas can shoot towards the goal if nothing is blocking it's path!
 
 ### Screenshot 3: Target box
-![Example 3](img/example3.png)
 Midas will not act unless a ball enters it's "target path" which is a box around the goal. During this time, Midas is carefully watching the physics behind how the ball is moving.
+![Example 3](img/example3.png)
+
 ---
 
 ## Future Development
