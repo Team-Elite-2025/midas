@@ -138,7 +138,7 @@ Edit constants at the top of the program for tuning:
 ![Example 2](img/example2.png)
 
 ### Screenshot 3: Path Analysis
-![Example 3](example3.png)
+![Example 3](img/example3.png)
 
 ---
 
