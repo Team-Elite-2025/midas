@@ -1,4 +1,5 @@
 # Midas
+![Logo](img/midaslogo-small.png)
 
 Midas is an advanced defense algorithm developed by **Team Elite** from the USA for use in robotics competitions such as RoboCup Junior. This algorithm offers a highly sophisticated and mathematical approach to solving one of the most challenging aspects of robotic soccer: defending effectively against skilled offensive maneuvers. Midas is designed with a focus on predictive analysis, real-time decision-making, and adaptability, making it a powerful tool for robotics enthusiasts and competitors alike.
 
